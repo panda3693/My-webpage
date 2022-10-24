@@ -9,8 +9,7 @@ const COMMANDS = {
 	experience: "None",
 	education: "Unknown",
 	contact:
-		"You can contact me on any of following links:<br><a href='https://t.me/abison_binoy' class='success 
-link'>Telegram</a>, <a href='https://www.instagram.com/tech_boy250/' class='success link'>Instagram</a>, <a href='https://www.linkedin.com/in/abisonbinoy/' class='success link'>Linkedin</a>, <a href='https://www.twitter.com/abison_binoy/' class='success link'>Twitter</a>, <a href='mailto:abisonbinoy@gmail.com' class='success link'>Email</a>",
+		"You can contact me on any of following links:<br><a href='https://t.me/abison_binoy' class='success link'>Telegram</a>, <a href='https://www.instagram.com/tech_boy250/' class='success link'>Instagram</a>, <a href='https://www.linkedin.com/in/abisonbinoy/' class='success link'>Linkedin</a>, <a href='https://www.twitter.com/abison_binoy/' class='success link'>Twitter</a>, <a href='mailto:abisonbinoy@gmail.com' class='success link'>Email</a>",
 };
 
 const userInput = document.getElementById("userInput");
